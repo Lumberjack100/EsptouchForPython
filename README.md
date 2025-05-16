@@ -16,7 +16,7 @@
 2. 克隆本仓库：
 
 ```bash
-git clone https://github.com/yourusername/EsptouchForPython.git
+git clone https://github.com/Lumberjack100/EsptouchForPython.git
 cd EsptouchForPython
 ```
 
